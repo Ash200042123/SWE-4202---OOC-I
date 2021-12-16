@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\OOC lab\Pharmacy_Dependencies\bin\Debug\Pharmacy_Dependencies.dll
+C:\Users\ASUS\Desktop\OOC lab\Pharmacy_Dependencies\bin\Debug\Pharmacy_Dependencies.pdb
+C:\Users\ASUS\Desktop\OOC lab\Pharmacy_Dependencies\obj\Debug\Pharmacy_Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\Pharmacy_Dependencies\obj\Debug\Pharmacy_Dependencies.dll
+C:\Users\ASUS\Desktop\OOC lab\Pharmacy_Dependencies\obj\Debug\Pharmacy_Dependencies.pdb
