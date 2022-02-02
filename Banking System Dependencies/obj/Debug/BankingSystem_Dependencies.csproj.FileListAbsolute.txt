@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\OOC lab\Banking System Dependencies\bin\Debug\Banking System Dependencies.dll
+C:\Users\ASUS\Desktop\OOC lab\Banking System Dependencies\bin\Debug\Banking System Dependencies.pdb
+C:\Users\ASUS\Desktop\OOC lab\Banking System Dependencies\obj\Debug\BankingSystem_Dependencies.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\Banking System Dependencies\obj\Debug\BankingSystem_Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\Banking System Dependencies\obj\Debug\Banking System Dependencies.dll
+C:\Users\ASUS\Desktop\OOC lab\Banking System Dependencies\obj\Debug\Banking System Dependencies.pdb

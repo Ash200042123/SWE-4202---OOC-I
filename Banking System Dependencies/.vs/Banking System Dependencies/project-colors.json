@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cde70ed1-f404-4149-96da-88a0a73b2641": {
+      "ProjectGuid": "cde70ed1-f404-4149-96da-88a0a73b2641",
+      "DisplayName": "BankingSystem_Dependencies",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
