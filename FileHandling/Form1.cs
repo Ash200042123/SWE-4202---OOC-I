@@ -40,7 +40,10 @@ namespace FileHandling
      
                     }
                 }
-                
+                if(IDLabel.Text != ID)
+            {
+                MessageBox.Show("Employee not found!");
+            }
             
         }
 
